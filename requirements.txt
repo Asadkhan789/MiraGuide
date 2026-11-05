@@ -1,0 +1,13 @@
+torch
+transformers==4.57.6
+sentence-transformers==5.1.2
+huggingface-hub==0.36.2
+Pillow
+networkx
+requests
+tqdm
+accelerate
+datasets==5.0.0
+pyarrow==25.0.0
+rouge-score
+bert-score
